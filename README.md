@@ -1,2 +1,2 @@
-# ANSYS-Thermal-Conductivity
-The script models how thermal conductivity decrease due to irradiation affects thermal and structural performance of a specific material.
+<h1>Thermal Conductivity Studies</h1>
+The script models how the drop in thermal conductivity due to irradiation affects the thermal and structural performance of a specific material.
